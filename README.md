@@ -2,4 +2,4 @@
 
 # Shenzhen Ziyi Technology Co., Ltd.
 
-![Working hard](https://github.com/gpnav/gpnav.github.io/blob/main/cat.png)
+![working.png](https://note.youdao.com/yws/res/a/WEBRESOURCE172bf9fd8d64e896273d91bfd245921a))
