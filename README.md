@@ -1,9 +1,3 @@
----
-title: "zy tech"
-layout: page
----
-
-
 # 深圳孜易科技有限公司
 
 # Shenzhen Ziyi Technology Co., Ltd.
