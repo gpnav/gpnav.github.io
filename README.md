@@ -2,4 +2,4 @@
 
 # Shenzhen Ziyi Technology Co., Ltd.
 
-![working.png](img/cat.png)
+![working.png](img/cat_small.jpg)
